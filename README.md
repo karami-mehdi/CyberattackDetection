@@ -1,4 +1,4 @@
-# Cyber Attack Detection and Anomalous Behavior Analysis Using Recurrent Neural Networks (RNN)
+# 🌐 Cyber Attack Detection and Anomalous Behavior Analysis Using Recurrent Neural Networks (RNN)
 
 Cybersecurity is a critical domain as network attacks increasingly threaten systems worldwide. Detecting cyber attacks and analyzing anomalous behaviors in network traffic is essential for securing digital environments. This project leverages **Recurrent Neural Networks (RNNs)**, technically **Long Short-Term Memory (LSTM)**, to identify abnormal patterns in network traffic that signal potential cyberattacks, such as DDoS, port scanning, and brute-force attacks.
 
