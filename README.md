@@ -19,7 +19,7 @@ For easier access, we used the [Network Intrusion Dataset on Kaggle](https://www
 
 1. To run this project, clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/nsswifter/CyberattackDetection.git
+git clone https://github.com/karami-mehdi/CyberattackDetection.git
 cd CyberattackDetection
 ```
 
